@@ -1,0 +1,21 @@
+15-10-2017 15:37:09 INFO [main] App - Logging initialised
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - element 415 was added as the root node
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 98 sucessfully added to the left tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 253 sucessfully added to the right tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 383 sucessfully added to the right tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 67 sucessfully added to the left tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 11 sucessfully added to the left tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 340 sucessfully added to the left tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 200 sucessfully added to the left tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 232 sucessfully added to the right tree
+15-10-2017 15:37:09 INFO [main] BinaryTreeImp - Element 371 sucessfully added to the right tree
+15-10-2017 15:37:09 INFO [main] App - Logging finished
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - element 7 was added as the root node
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 4 sucessfully added to the left tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 9 sucessfully added to the right tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 1 sucessfully added to the left tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 3 sucessfully added to the right tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 5 sucessfully added to the right tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 8 sucessfully added to the left tree
+15-10-2017 15:39:35 INFO [main] BinaryTreeImp - Element 11 sucessfully added to the right tree
+15-10-2017 15:39:35 ERROR [main] DuplicatedNode - 9 is a Duplicate Node
